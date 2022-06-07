@@ -1,15 +1,16 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <sdtlib.h>
 #include <time.h>
 
 /**
- * main -Entry point
+ * main - Entry Point
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
 	char low, e, q;
+
 	e = 'e';
 	q = 'q';
 
