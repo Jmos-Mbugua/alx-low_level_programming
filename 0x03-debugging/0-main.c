@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * main - tests function prints if interger is positive or negative
  * Return: O 
