@@ -3,7 +3,7 @@
  * print_number - print an int numbers.
  * @n: number tested
  * Return: Always 0.
- * */
+ */
 void print_number(int n)
 {
 	int i, j, digit, digits, power;
@@ -27,10 +27,11 @@ void print_number(int n)
 		number = number / 10;
 		digit++;
 	}
+
 	digits = digit + 1;
 	power = 1;
 	i = 1;
-	
+
 	while (i < digits)
 	{
 		power = power * 10;
