@@ -54,6 +54,9 @@ int isPrime(long int n)
 }
  /**
   * biggestFactor - returns the biggest prime factor
+  *
+  * Description: Prints the biggest prime factor
+  *
   * @a: number to check
   * Return: biggest factor
   */
